@@ -1,4 +1,6 @@
-Forked from cra-antd-electron-boilerplate
+- Forked from cra-antd-electron-boilerplate
+- Refactored using functional components
+- Updated react version
 
 # cra-antd-electron-boilerplate
 
